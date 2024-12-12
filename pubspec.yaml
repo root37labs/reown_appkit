@@ -30,7 +30,8 @@ dependencies:
     git: https://github.com/root37labs/reown_core.git
   # reown_core:
   #   path: ../reown_core/
-  reown_sign: ^1.0.4
+  reown_sign:
+    git: https://github.com/root37labs/reown_sign.git
   # reown_sign:
   #   path: ../reown_sign/
   shimmer: ^3.0.0
@@ -51,7 +52,8 @@ dev_dependencies:
   logger: ^2.2.0
   mockito: ^5.4.3
   package_info_plus: ^8.0.2
-  reown_walletkit: ^1.0.3
+  reown_walletkit:
+    git: https://github.com/root37labs/reown_walletkit.git
   # reown_walletkit:
   #   path: ../reown_walletkit/
 
